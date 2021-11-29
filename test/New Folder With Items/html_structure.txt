@@ -1,0 +1,16 @@
+
+Linkedin Jobs URL structure
+******************************************************************
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&position=1&pageNum=0
+
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&currentJobId=2813960770&position=2&pageNum=0
+
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&currentJobId=2812105463&position=3&pageNum=0
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&currentJobId=2816676933&position=4&pageNum=0
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&currentJobId=2814013780&position=5&pageNum=0
+
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&currentJobId=2816131580&position=6&pageNum=0
+  https://www.linkedin.com/jobs/jobs-in-berkeley-ca?trk=homepage-basic_guest_nav_menu_jobs&currentJobId=2816131580&position=6&pageNum=0
+
+  Things to note:
+    - 

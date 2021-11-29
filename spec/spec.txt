@@ -1,0 +1,71 @@
+
+OVERVIEW
+******************************************************************
+	Significant is a program which will find the most sought after
+	skills for a given job. Will obtain data from scraping websites
+	with job postings. Will parse HTML files into a serialized data
+	structure (not sure what to use yet). Lastly, will analyze the
+	data and find the most significant words by frequency.
+
+
+ABSTRACT
+******************************************************************
+
+	1) Module to autonomously find URLs that correspond to the
+	   target job from websites like handshake, linkedin, etc..
+
+	2) Module that receives URLs as input and processes text data.
+	   This includes parsing words into data structures and cleaning
+		 out the noise. Data should persist on disk.
+
+	3) Analysis
+		- I can count the frequency of significant words
+			- filtering out commonly used words, noise
+			- figure out a way to overcome
+
+
+
+TASKS
+******************************************************************
+
+	0)
+
+	1) Write the backend engine for data processing
+		- find python libraries for web scraping
+		- figure out what data structures to use
+		- leave data cleaning and optimizations for later
+
+	2) Learn how to autonomously surf the web and build the
+	   automator
+
+	3) Once I built the tools to obtain data, figure out how to
+	   clean it
+	   	- Cross reference with a dictionary?
+
+	4)
+
+
+TECH STACK
+******************************************************************
+
+* Use ELT!! We want to store data before processing, persist the
+  raw textual data
+
+Data Acquisition:
+	1) Requests lib for making http requests for website data
+	2) Beautiful Soup lib for parsing html files
+
+
+Data Persistence:
+	1) Parse html into json file
+	2) Store all json files in directory system
+
+
+Processing and optimization
+
+	1)
+
+
+Analysis
+
+	1)
